@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Asap");
+
+* {
+    font-family: "Asap";
+}
+
+body {
+    background-color: black;
+
+    position: absolute;
+    top: 35%;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+
+h3, input {
+    color: lawngreen; /* text color (real hackers only need green on black) */
+    font-size: 18px; /* size of text */
+
+    background: none;
+    border: none;
+    width: 520px;
+}
+
+form {
+    display: inline;
+}
